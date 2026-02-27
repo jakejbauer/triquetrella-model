@@ -15,6 +15,6 @@ This GitHub repository is an attempt to keep my process as reproducible as possi
 Because rasters used in this project are large, and originate from many source agencies, instructions for the downloading these products are included below:
 
 ## TNIM DEM (1 arc second)
-Data query was generated for the study area using <a href="https://apps.nationalmap.gov/downloader/">TNM Download v2.0</a>. <a href="https://sourceforge.net/projects/urlget/">uGet</a> was used to download the queried files using the resulting text file. To download the needed files, use <a href="">NED_1arcsec_StudyArea_uGet.txt</a> to initiate a uGet download.
+Data query was generated for the study area using <a href="https://apps.nationalmap.gov/downloader/">TNM Download v2.0</a>.  To download the queried files, <a href="https://sourceforge.net/projects/urlget/">uGet</a> was utilized. Use <a href="">NED_1arcsec_StudyArea_uGet.txt</a> to initiate a uGet download.
 
 
