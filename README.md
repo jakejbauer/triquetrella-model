@@ -17,4 +17,6 @@ Because rasters used in this project are large, and originate from many source a
 ## TNM DEM (1 arc second)
 Data query was generated for the study area using <a href="https://apps.nationalmap.gov/downloader/" target="_blank">TNM Download v2.0</a>.  To download the queried files, <a href="https://sourceforge.net/projects/urlget/" target="_blank">uGet</a> was utilized. Use <a href="https://github.com/jakejbauer/triquetrella-model/blob/main/NED_1arcsec_StudyArea_uGet.txt" target="_blank">NED_1arcsec_StudyArea_uGet.txt</a> to initiate a uGet download.
 
+## CEC North American Land Cover, 2020 (30 m)
+Data can be downloaded directly from the <a href="https://www.cec.org/north-american-environmental-atlas/land-cover-30m-2020/" target="_blank">Commission for Environmental Cooperation website.</a>
 
