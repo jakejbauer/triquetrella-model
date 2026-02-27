@@ -1,6 +1,6 @@
 # Modelling the distribution of _Triquetrella californica_
 
-## Jake Bauer - Cal State University Los Angeles, Department of Environmental Science
+## Jake Bauer - California State University, Los Angeles
 
 _Triquetrella californica_ is a rare moss endemic to the Pacific coast of North America from San Diego, CA up to the Gulf Islands, BC. Despite it's large range, only a handful of populations are known for this species. Given anthropogenic threats to it's coastal habitat, predicting the distribution of _T. californica_ is an important conservation task.
 
