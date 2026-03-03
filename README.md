@@ -25,4 +25,6 @@ Data for the following MRLC datasets can be downloaded directly from RCMAP:
 <ul>
   <li> <a href="https://www.mrlc.gov/data/rcmap-annual-herbaceous-cover-1" target="_blank">Annual Herbaceous Cover</a>
   <li> <a href="https://www.mrlc.gov/data/rcmap-bare-ground-cover" target="_blank">Bare Ground Cover</a>
+  <li> <a href="https://www.mrlc.gov/data/rcmap-perennial-herbaceous-cover" target="_blank">Perennial Herbaceous Cover</a>
+    
 </ul>
