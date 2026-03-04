@@ -20,8 +20,8 @@ Data query was generated for the study area using <a href="https://apps.national
 ## CEC North American Land Cover, 2020 (30 m)
 Data can be downloaded directly from the <a href="https://www.cec.org/north-american-environmental-atlas/land-cover-30m-2020/" target="_blank">Commission for Environmental Cooperation website.</a>
 
-## Multi-Resolution Land Characteristics (MRLC)
-Data for the following MRLC datasets can be downloaded directly from RCMAP:
+## Rangeland Condition Monitoring, Assessment, and Projection (RCMAP) Datasets
+Data for the following RCMAP datasets can be downloaded directly from their MRLC Consortium pages:
 <ul>
   <li> <a href="https://www.mrlc.gov/data/rcmap-annual-herbaceous-cover-1" target="_blank">Annual Herbaceous Cover</a>
   <li> <a href="https://www.mrlc.gov/data/rcmap-bare-ground-cover" target="_blank">Bare Ground Cover</a>
