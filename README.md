@@ -21,10 +21,14 @@ Data query was generated for the study area using <a href="https://apps.national
 Data can be downloaded directly from the <a href="https://www.cec.org/north-american-environmental-atlas/land-cover-30m-2020/" target="_blank">Commission for Environmental Cooperation website.</a>
 
 ## Rangeland Condition Monitoring, Assessment, and Projection (RCMAP) Datasets
-Data for the following RCMAP datasets can be downloaded directly from their MRLC Consortium pages:
+Data for all RCMAP datasets can be downloaded directly from their <a href="https://www.mrlc.gov/data" target="_blank">MRLC Consortium page</a>. Datasets used include the following:
 <ul>
-  <li> <a href="https://www.mrlc.gov/data/rcmap-annual-herbaceous-cover-1" target="_blank">Annual Herbaceous Cover</a>
-  <li> <a href="https://www.mrlc.gov/data/rcmap-bare-ground-cover" target="_blank">Bare Ground Cover</a>
-  <li> <a href="https://www.mrlc.gov/data/rcmap-perennial-herbaceous-cover" target="_blank">Perennial Herbaceous Cover</a>
-    
+  <li>Annual Herbaceous Cover</li>
+  <li>Bare ground</li>
+  <li>Perennial Herbaceous Cover</li>
+  <li>Soil Litter</li>
+  <li>Shrub Cover</li>
+  <li>Shrub Height</li>
+  <li>Forest Cover</li>
 </ul>
+
