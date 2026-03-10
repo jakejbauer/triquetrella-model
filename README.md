@@ -17,18 +17,16 @@ Because rasters used in this project are large, and originate from many source a
 ## TNM DEM (1 arc second)
 Data query was generated for the study area using <a href="https://apps.nationalmap.gov/downloader/" target="_blank">TNM Download v2.0</a>.  To download the queried files, <a href="https://sourceforge.net/projects/urlget/" target="_blank">uGet</a> was utilized. Use <a href="https://github.com/jakejbauer/triquetrella-model/blob/main/NED_1arcsec_StudyArea_uGet.txt" target="_blank">NED_1arcsec_StudyArea_uGet.txt</a> to initiate a uGet download.
 
-## CEC North American Land Cover, 2020 (30 m)
-Data can be downloaded directly from the <a href="https://www.cec.org/north-american-environmental-atlas/land-cover-30m-2020/" target="_blank">Commission for Environmental Cooperation website.</a>
-
-## Rangeland Condition Monitoring, Assessment, and Projection (RCMAP) Datasets
-Data for all RCMAP datasets can be downloaded directly from their <a href="https://www.mrlc.gov/data" target="_blank">MRLC Consortium page</a>. Datasets used include the following:
+## Multi-Resolution Land Characteristics
+Data for all MRLC (both RCMAP and NRLC) datasets can be downloaded directly from their <a href="https://www.mrlc.gov/data" target="_blank">MRLC Consortium page</a>. Datasets used include the following:
 <ul>
+  <li>Land Cover</li>
   <li>Annual Herbaceous Cover</li>
   <li>Bare ground</li>
   <li>Perennial Herbaceous Cover</li>
   <li>Soil Litter</li>
   <li>Shrub Cover</li>
   <li>Shrub Height</li>
-  <li>Forest Cover</li>
+  <li>Tree Cover</li>
 </ul>
 
