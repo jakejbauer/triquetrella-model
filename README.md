@@ -12,6 +12,8 @@ This GitHub repository is an attempt to keep my process as reproducible as possi
 
 # DATA
 
+The study area for this project includes California, Oregon and Washington. Datapoints of _T. californica_ are available for British Columbia, however contiguous datasets that include San Diego through British Columbia are uncommon. For the iterative modelling, current field work will be restriced to Southern California for transportation reasons, and initially will be restricted to Mission Trails Regional Park, where permits are already aquired through the San Diego State University Herbarium.
+
 Datasets considered include the 6 uncorrelated variables determined by Borokini,
 <ul>
   <li>Cosine aspect</li>
