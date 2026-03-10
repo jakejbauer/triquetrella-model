@@ -10,6 +10,40 @@ The primary goal of this project is to apply modeling and field work to produce 
 
 This GitHub repository is an attempt to keep my process as reproducible as possible. For any questions, please reach out to jbauer3@calstatela.edu
 
+# DATA
+
+Datasets considered include the 6 uncorrelated variables determined by Borokini,
+<ul>
+  <li>Cosine aspect</li>
+  <li>Topographic Position Index (TPI333)</li>
+  <li>Perennial herbaceous cover</li>
+  <li>Cumulative annual actual evapo-transpiration</li>
+  <li>Minimum monthly temperature</li>
+  <li>Summer seasonal precipitation</li>
+</ul>
+as well as additional datasets that were considered possible indicators for _T. californica_ based on field experience:
+<ul>
+  <li>Elevation</li>
+  <li>Land cover</li>
+  <li>Topographic Wetness Index</li>
+  <li>Annual herbaceous cover</li>
+  <li>Bare ground</li>
+  <li>Soil litter</li>
+  <li>Shrub vegetative cover</li>
+  <li>Tree cover</li>
+  <li>Solar radiation</li>
+  <li>Available water content</li>
+  <li>Geology: lithology</li>
+  <li>Geology: presence of granitic incidentals</li>
+  <li>Fog</li>
+  <li>Distance to water bodies</li>
+  <li>Distance to hydrological network</li>
+  <li>Bird abundance</li>
+  <li>Bird stopover</li>
+  <li>Cloud cover</li>
+  <li>Geomorphons</li>
+</ul>
+
 
 # Downloading Files
 Because rasters used in this project are large, and originate from many source agencies, instructions for the downloading these products are included below:
