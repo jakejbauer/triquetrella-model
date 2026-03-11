@@ -28,6 +28,7 @@ as well as additional datasets that were considered possible indicators for _T. 
   <li>Elevation</li>
   <li>Land cover</li>
   <li>Topographic Wetness Index</li>
+  <li>Topographic Position Index (TPI33)</li>
   <li>Annual herbaceous cover</li>
   <li>Bare ground</li>
   <li>Soil litter</li>
