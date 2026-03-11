@@ -36,7 +36,7 @@ as well as additional datasets that were considered possible indicators for _T. 
   <li>*Tree cover</li>
   <li>Solar radiation</li>
   <li>Available water content</li>
-  <li>Geology: lithology</li>
+  <li>*Geology: lithology</li>
   <li>Geology: presence of granitic incidentals</li>
   <li>Fog</li>
   <li>Distance to water bodies</li>
