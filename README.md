@@ -16,24 +16,24 @@ The study area for this project includes California, Oregon and Washington. Data
 
 Datasets considered include the 6 uncorrelated variables determined by Borokini,
 <ul>
-  <li>Cosine aspect</li>
-  <li>Topographic Position Index (TPI333)</li>
-  <li>Perennial herbaceous cover</li>
+  <li>*Cosine aspect</li>
+  <li>*Topographic Position Index (TPI333)</li>
+  <li>*Perennial herbaceous cover</li>
   <li>Cumulative annual actual evapo-transpiration</li>
   <li>Minimum monthly temperature</li>
   <li>Summer seasonal precipitation</li>
 </ul>
 as well as additional datasets that were considered possible indicators for _T. californica_ based on field experience:
 <ul>
-  <li>Elevation</li>
-  <li>Land cover</li>
-  <li>Topographic Wetness Index</li>
-  <li>Topographic Position Index (TPI33)</li>
-  <li>Annual herbaceous cover</li>
-  <li>Bare ground</li>
-  <li>Soil litter</li>
-  <li>Shrub vegetative cover</li>
-  <li>Tree cover</li>
+  <li>*Elevation</li>
+  <li>*Land cover</li>
+  <li>*Topographic Wetness Index</li>
+  <li>*Topographic Position Index (TPI33)</li>
+  <li>*Annual herbaceous cover</li>
+  <li>*Bare ground</li>
+  <li>*Soil litter</li>
+  <li>*Shrub cover</li>
+  <li>*Tree cover</li>
   <li>Solar radiation</li>
   <li>Available water content</li>
   <li>Geology: lithology</li>
