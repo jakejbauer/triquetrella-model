@@ -67,3 +67,6 @@ Data for all MRLC (both RCMAP and NRLC) datasets can be downloaded directly from
   <li>Tree Cover</li>
 </ul>
 
+## USGS Geologic map
+Geodatabase with geologic data (Horton et al. 2017) downloaded from the <a href="https://mrdata.usgs.gov/geology/state/" target="_blank">USGS Geologic maps of the US states webpage.</a>
+
